@@ -11,7 +11,7 @@ package pboif2.pkg10119069.latihan5.kambingglobal;
  * NAMA     : TRI NOVAREL RAHMADHANI
  * KELAS    : PBOIF2
  * NIM      : 10119069
- * Deskripsi Program    :
+ * Deskripsi Program    : Program menjumlahkan value
  */
 public class PBOIF210119069Latihan5KambingGlobal {
     //Variabel jumlahkambing menjadi variabel instance
